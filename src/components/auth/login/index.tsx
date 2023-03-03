@@ -20,7 +20,7 @@ const LoginPage = (props: any) => {
                        placeholder="Enter password"/>
             <Button type="submit" sx={{fontFamily: 'Poppins', marginTop: 2, marginBottom: 2, width: '60%'}}
                     variant="contained">Enter</Button>
-            <Typography variant="body1" sx={{fontFamily: 'Popins'}}> Have not account? <span
+            <Typography variant="body1" sx={{fontFamily: 'Poppins'}}> Have not account? <span
                 className="incitingText">Registration</span>
 
             </Typography>

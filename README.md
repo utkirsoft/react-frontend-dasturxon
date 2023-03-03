@@ -50,5 +50,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 git init
 git status
 git remote add origin git@github.com/utkirsoft/react-frontend-dasturxon.git
-
+npx eslint .\src\** --fix
 ```
